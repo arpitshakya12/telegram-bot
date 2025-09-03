@@ -3,3 +3,5 @@ Pillow
 rembg
 pytesseract
 onnxruntime
+filetype
+
